@@ -1,3 +1,5 @@
 Hello World!
 
-ich bin Student 2...
+<<<<<<< HEAD
+wir sind Studenten!
+>>>>>>> origin/main
